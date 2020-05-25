@@ -155,6 +155,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day02_Operators", "30DaysOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "ProblemSolving\Algorithms\BitManipulation\Easy\LonelyInteger\LonelyInteger.csproj", "{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximizingXOR", "ProblemSolving\Algorithms\BitManipulation\Easy\MaximizingXOR\MaximizingXOR.csproj", "{7CD1500D-CFAC-4386-AD51-5F93BDDB3302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumVsXOR", "ProblemSolving\Algorithms\BitManipulation\Easy\SumVsXOR\SumVsXOR.csproj", "{ABD55E3B-9138-4A02-B905-C26B480546C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -313,6 +317,14 @@ Global
 		{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD1500D-CFAC-4386-AD51-5F93BDDB3302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD1500D-CFAC-4386-AD51-5F93BDDB3302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD1500D-CFAC-4386-AD51-5F93BDDB3302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD1500D-CFAC-4386-AD51-5F93BDDB3302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD55E3B-9138-4A02-B905-C26B480546C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD55E3B-9138-4A02-B905-C26B480546C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD55E3B-9138-4A02-B905-C26B480546C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD55E3B-9138-4A02-B905-C26B480546C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -390,6 +402,8 @@ Global
 		{1550B564-49FB-4DE7-890C-D509FBEFA8A1} = {CBE5344A-3652-4FD0-A611-970A8EDBC5F2}
 		{2941FE50-8433-4EC3-A8D9-22A770C9B6CB} = {C10480BA-2395-4BED-B13A-B9DF6B331AC4}
 		{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169} = {E3B64F44-762A-4B86-A607-1FD8752DB85F}
+		{7CD1500D-CFAC-4386-AD51-5F93BDDB3302} = {E3B64F44-762A-4B86-A607-1FD8752DB85F}
+		{ABD55E3B-9138-4A02-B905-C26B480546C8} = {E3B64F44-762A-4B86-A607-1FD8752DB85F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D440E8C8-D7AB-4FA6-A957-B078546AB4BA}
