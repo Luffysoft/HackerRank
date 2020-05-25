@@ -4,7 +4,7 @@
     {
         public static long FlippingBits(long n)
         {
-            return ~((uint)n);
+            return n ^ ((long) 1 << 32) - 1;
         }
     }
 }

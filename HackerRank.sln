@@ -43,27 +43,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoStrings", "ProblemSolvin
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{FFF3D8E5-D06D-4456-AD4D-D7A5FD57162B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockAndTheValidString", "ProblemSolving\Algorithms\Strings\Medium\SherlockAndTheValidString\SherlockAndTheValidString.csproj", "{B4F115DB-8F81-4C88-8118-159FEBDB2A67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SherlockAndTheValidString", "ProblemSolving\Algorithms\Strings\Medium\SherlockAndTheValidString\SherlockAndTheValidString.csproj", "{B4F115DB-8F81-4C88-8118-159FEBDB2A67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockAndAnagrams", "ProblemSolving\Algorithms\Strings\Medium\SherlockAndAnagrams\SherlockAndAnagrams.csproj", "{8BE35CEE-62F8-4C18-B289-ADBA9FF22106}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SherlockAndAnagrams", "ProblemSolving\Algorithms\Strings\Medium\SherlockAndAnagrams\SherlockAndAnagrams.csproj", "{8BE35CEE-62F8-4C18-B289-ADBA9FF22106}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Greedy", "Greedy", "{89BE498C-545F-40CD-BBD5-9E9DDC8251B1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{EA50DD3E-AB93-43B1-AF71-891CD7D2A4CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkAndToys", "ProblemSolving\Algorithms\Greedy\Easy\MarkAndToys\MarkAndToys.csproj", "{19CDB5B2-7DA6-4995-9440-CB0CE7445BB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarkAndToys", "ProblemSolving\Algorithms\Greedy\Easy\MarkAndToys\MarkAndToys.csproj", "{19CDB5B2-7DA6-4995-9440-CB0CE7445BB2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Constructive Algorithms", "Constructive Algorithms", "{847604ED-33D4-4640-B0F7-C5D360B3B18F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{DDFD0BE5-D1AE-4323-A0C1-2135DFB80782}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearChaos", "ProblemSolving\Algorithms\ConstructiveAlgorithms\Medium\NewYearChaos\NewYearChaos.csproj", "{76513950-1E1C-410A-8C76-692BF9A49E98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewYearChaos", "ProblemSolving\Algorithms\ConstructiveAlgorithms\Medium\NewYearChaos\NewYearChaos.csproj", "{76513950-1E1C-410A-8C76-692BF9A49E98}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bit Manipulation", "Bit Manipulation", "{22CCFCB8-FD26-4E08-BD81-C23AF218B27D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{E3B64F44-762A-4B86-A607-1FD8752DB85F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlippingBits", "ProblemSolving\Algorithms\BitManipulation\Easy\FlippingBits\FlippingBits.csproj", "{C37D4863-0278-484B-A484-53F2EE3F32AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlippingBits", "ProblemSolving\Algorithms\BitManipulation\Easy\FlippingBits\FlippingBits.csproj", "{C37D4863-0278-484B-A484-53F2EE3F32AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Structures", "Data Structures", "{01A097EE-99CE-4C40-9A88-877385F1A142}"
 EndProject
@@ -71,19 +71,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{594427
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{DE6B0B7E-B96E-45F7-BDA0-15AC4F5349D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DArray", "ProblemSolving\DataStructures\Arrays\Easy\2DArray\2DArray.csproj", "{057B012A-92A4-46CE-9DBA-AAC197948103}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DArray", "ProblemSolving\DataStructures\Arrays\Easy\2DArray\2DArray.csproj", "{057B012A-92A4-46CE-9DBA-AAC197948103}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hard", "Hard", "{343A9714-768B-4AEF-AB79-D1BAC73C24C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulation", "ProblemSolving\DataStructures\Arrays\Hard\ArrayManipulation\ArrayManipulation.csproj", "{B1792F36-A525-44D4-B758-EA564EAE241E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManipulation", "ProblemSolving\DataStructures\Arrays\Hard\ArrayManipulation\ArrayManipulation.csproj", "{B1792F36-A525-44D4-B758-EA564EAE241E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stacks", "Stacks", "{8E2E5E8E-0224-4565-A232-2BD31BC9130D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{71C6B4DE-F723-4F4E-A9F3-812AD953F611}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBrackets", "ProblemSolving\DataStructures\Stacks\Medium\BalancedBrackets\BalancedBrackets.csproj", "{D328A250-791F-437D-8144-079C2BBB6A54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedBrackets", "ProblemSolving\DataStructures\Stacks\Medium\BalancedBrackets\BalancedBrackets.csproj", "{D328A250-791F-437D-8144-079C2BBB6A54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestRectangle", "ProblemSolving\DataStructures\Stacks\Medium\LargestRectangle\LargestRectangle.csproj", "{330CFE06-B94A-4ED8-9171-3B3160AD094C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestRectangle", "ProblemSolving\DataStructures\Stacks\Medium\LargestRectangle\LargestRectangle.csproj", "{330CFE06-B94A-4ED8-9171-3B3160AD094C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interview Preparation Kit", "Interview Preparation Kit", "{856CF73F-305F-4986-A3EA-A484D7BB9CA7}"
 EndProject
@@ -93,35 +93,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{4E0B0A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{74BAF92E-7FC3-43B7-9478-E0B39FD29248}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSwaps2", "InterviewPreparationKit\Arrays\Medium\MinimumSwaps2\MinimumSwaps2.csproj", "{AB6A443E-5F00-498C-A95C-3C05345A490E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumSwaps2", "InterviewPreparationKit\Arrays\Medium\MinimumSwaps2\MinimumSwaps2.csproj", "{AB6A443E-5F00-498C-A95C-3C05345A490E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dictionaries And Hashmaps", "Dictionaries And Hashmaps", "{4827B318-FC66-4862-9ED3-E9BBB32E0726}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{F9D93EE3-DDA3-4B29-81F2-2D1D02F3C7F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "InterviewPreparationKit\DictionariesAndHashmaps\Easy\RansomNote\RansomNote.csproj", "{41D41586-D750-4CC8-A406-7FB10F87B2F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "InterviewPreparationKit\DictionariesAndHashmaps\Easy\RansomNote\RansomNote.csproj", "{41D41586-D750-4CC8-A406-7FB10F87B2F5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{89608258-7C09-4211-882E-8C496635C5C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTriplets", "InterviewPreparationKit\DictionariesAndHashmaps\Medium\CountTriplets\CountTriplets.csproj", "{F299C88D-1E73-487B-B67B-81B3A5345A44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountTriplets", "InterviewPreparationKit\DictionariesAndHashmaps\Medium\CountTriplets\CountTriplets.csproj", "{F299C88D-1E73-487B-B67B-81B3A5345A44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyQueries", "InterviewPreparationKit\DictionariesAndHashmaps\Medium\FrequencyQueries\FrequencyQueries.csproj", "{BFD2DF71-B631-444D-8A68-B0DEDAB42E6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrequencyQueries", "InterviewPreparationKit\DictionariesAndHashmaps\Medium\FrequencyQueries\FrequencyQueries.csproj", "{BFD2DF71-B631-444D-8A68-B0DEDAB42E6C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{0A8023CE-22FC-4AFF-9FFD-D9A919C9A136}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{CE2F15B8-314C-4301-8C3D-1979337C8B86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "InterviewPreparationKit\Sorting\Easy\BubbleSort\BubbleSort.csproj", "{57EAD146-E6A1-4D6A-AF15-6E7BC0E570DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "InterviewPreparationKit\Sorting\Easy\BubbleSort\BubbleSort.csproj", "{57EAD146-E6A1-4D6A-AF15-6E7BC0E570DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakingAnagrams", "ProblemSolving\Algorithms\Strings\Easy\MakingAnagrams\MakingAnagrams.csproj", "{CD48D171-56A4-4D73-B05D-F88F98D42D0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakingAnagrams", "ProblemSolving\Algorithms\Strings\Easy\MakingAnagrams\MakingAnagrams.csproj", "{CD48D171-56A4-4D73-B05D-F88F98D42D0C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stacks And Queues", "Stacks And Queues", "{E1311C57-A70E-4AF7-8418-38F0558F7B78}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{640BF99C-80A5-46A1-B67E-134AD4B88D23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATaleOfTwoStacks", "InterviewPreparationKit\StacksAndQueues\Medium\ATaleOfTwoStacks\ATaleOfTwoStacks.csproj", "{805E760A-24BB-40E3-A9C2-07FFF9CEA9C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATaleOfTwoStacks", "InterviewPreparationKit\StacksAndQueues\Medium\ATaleOfTwoStacks\ATaleOfTwoStacks.csproj", "{805E760A-24BB-40E3-A9C2-07FFF9CEA9C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxRiddle", "InterviewPreparationKit\StacksAndQueues\Medium\MinMaxRiddle\MinMaxRiddle.csproj", "{8C32FBA3-F7BB-4340-8BA4-BDA040B13A60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinMaxRiddle", "InterviewPreparationKit\StacksAndQueues\Medium\MinMaxRiddle\MinMaxRiddle.csproj", "{8C32FBA3-F7BB-4340-8BA4-BDA040B13A60}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Skills Certification Test", "Skills Certification Test", "{5AEE2E8E-2950-4BEE-89F4-0561A2527994}"
 EndProject
@@ -129,27 +129,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem Solving", "Problem 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{DAF61085-D916-49C2-B2F6-04C61215A5E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAnagram", "SkillsCertificationTest\ProblemSolving\Basic\StringAnagram\StringAnagram.csproj", "{EAC07324-6075-4087-9A86-F8E389EA3E12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringAnagram", "SkillsCertificationTest\ProblemSolving\Basic\StringAnagram\StringAnagram.csproj", "{EAC07324-6075-4087-9A86-F8E389EA3E12}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Intermediate", "Intermediate", "{4AAD60BB-35A0-480B-B10D-568DA3E15C05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedSystemFilesPartition", "SkillsCertificationTest\ProblemSolving\Basic\BalancedSystemFilesPartition\BalancedSystemFilesPartition.csproj", "{A09E6217-DFD1-4660-A4FF-2FE0DA1DA400}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedSystemFilesPartition", "SkillsCertificationTest\ProblemSolving\Basic\BalancedSystemFilesPartition\BalancedSystemFilesPartition.csproj", "{A09E6217-DFD1-4660-A4FF-2FE0DA1DA400}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiceTeams", "SkillsCertificationTest\ProblemSolving\Intermediate\NiceTeams\NiceTeams.csproj", "{C2890526-90D7-46D3-ACCE-A6450194E412}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NiceTeams", "SkillsCertificationTest\ProblemSolving\Intermediate\NiceTeams\NiceTeams.csproj", "{C2890526-90D7-46D3-ACCE-A6450194E412}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserFriendlyPasswordSystem", "SkillsCertificationTest\ProblemSolving\Intermediate\UserFriendlyPasswordSystem\UserFriendlyPasswordSystem.csproj", "{81BC4505-5FE3-4C12-A8CD-A134BC1BF23A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserFriendlyPasswordSystem", "SkillsCertificationTest\ProblemSolving\Intermediate\UserFriendlyPasswordSystem\UserFriendlyPasswordSystem.csproj", "{81BC4505-5FE3-4C12-A8CD-A134BC1BF23A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "30 Days Of Code", "30 Days Of Code", "{C10480BA-2395-4BED-B13A-B9DF6B331AC4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day00_HelloWorld", "30DaysOfCode\Day00_HelloWorld\Day00_HelloWorld.csproj", "{17DDB0C2-0BD6-4D15-9544-DD320642B769}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day01_DataTypes", "30DaysOfCode\Day01_DataTypes\Day01_DataTypes.csproj", "{3348041A-160D-4597-BC02-890B9D70DC6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day01_DataTypes", "30DaysOfCode\Day01_DataTypes\Day01_DataTypes.csproj", "{3348041A-160D-4597-BC02-890B9D70DC6B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linked Lists", "Linked Lists", "{0F333831-C7D9-4AA9-A439-E342396CED87}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{CBE5344A-3652-4FD0-A611-970A8EDBC5F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertANodeAtASpecificPositionInALinkedList", "ProblemSolving\DataStructures\LinkedLists\Easy\InsertANodeAtASpecificPositionInALinkedList\InsertANodeAtASpecificPositionInALinkedList.csproj", "{1550B564-49FB-4DE7-890C-D509FBEFA8A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertANodeAtASpecificPositionInALinkedList", "ProblemSolving\DataStructures\LinkedLists\Easy\InsertANodeAtASpecificPositionInALinkedList\InsertANodeAtASpecificPositionInALinkedList.csproj", "{1550B564-49FB-4DE7-890C-D509FBEFA8A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day02_Operators", "30DaysOfCode\Day02_Operators\Day02_Operators.csproj", "{2941FE50-8433-4EC3-A8D9-22A770C9B6CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "ProblemSolving\Algorithms\BitManipulation\Easy\LonelyInteger\LonelyInteger.csproj", "{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -301,6 +305,14 @@ Global
 		{1550B564-49FB-4DE7-890C-D509FBEFA8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1550B564-49FB-4DE7-890C-D509FBEFA8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1550B564-49FB-4DE7-890C-D509FBEFA8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2941FE50-8433-4EC3-A8D9-22A770C9B6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2941FE50-8433-4EC3-A8D9-22A770C9B6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2941FE50-8433-4EC3-A8D9-22A770C9B6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2941FE50-8433-4EC3-A8D9-22A770C9B6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -376,6 +388,8 @@ Global
 		{0F333831-C7D9-4AA9-A439-E342396CED87} = {01A097EE-99CE-4C40-9A88-877385F1A142}
 		{CBE5344A-3652-4FD0-A611-970A8EDBC5F2} = {0F333831-C7D9-4AA9-A439-E342396CED87}
 		{1550B564-49FB-4DE7-890C-D509FBEFA8A1} = {CBE5344A-3652-4FD0-A611-970A8EDBC5F2}
+		{2941FE50-8433-4EC3-A8D9-22A770C9B6CB} = {C10480BA-2395-4BED-B13A-B9DF6B331AC4}
+		{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169} = {E3B64F44-762A-4B86-A607-1FD8752DB85F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D440E8C8-D7AB-4FA6-A957-B078546AB4BA}
