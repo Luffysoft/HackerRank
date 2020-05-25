@@ -5,7 +5,7 @@ namespace NiceTeams
 {
     public class SolutionTest
     {
-        private static IEnumerable<(List<int>, int, int)> Scenarios()
+        private static IEnumerable<(List<int> skillLevels, int minDiff, int expected)> Scenarios()
         {
             yield return
             (
@@ -23,7 +23,7 @@ namespace NiceTeams
         }
 
         [TestCaseSource(nameof(Scenarios))]
-        public void Test((List<int>, int, int) scenarios)
+        public void Test((List<int> skillLevels, int minDiff, int expected) scenarios)
         {
             var (skillLevel, minDiff, expected) = scenarios;
 

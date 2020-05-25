@@ -2,7 +2,6 @@
 
 namespace BalancedBrackets
 {
-    [TestFixture]
     public class SolutionTest
     {
         [TestCase("{[(])}", "NO")]

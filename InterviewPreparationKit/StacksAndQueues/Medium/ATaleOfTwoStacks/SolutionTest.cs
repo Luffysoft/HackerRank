@@ -5,7 +5,7 @@ namespace ATaleOfTwoStacks
 {
     public class SolutionTest
     {
-        private static IEnumerable<(List<List<int>>, List<int>)> Scenarios()
+        private static IEnumerable<(List<List<int>> queries, List<int> expected)> Scenarios()
         {
             yield return
             (
@@ -40,7 +40,7 @@ namespace ATaleOfTwoStacks
         }
 
         [TestCaseSource(nameof(Scenarios))]
-        public void Test((List<List<int>>, List<int>) scenarios)
+        public void Test((List<List<int>> queries, List<int> expected) scenarios)
         {
             var (queries, expected) = scenarios;
 

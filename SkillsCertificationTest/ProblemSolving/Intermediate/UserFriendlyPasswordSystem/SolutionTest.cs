@@ -5,7 +5,7 @@ namespace UserFriendlyPasswordSystem
 {
     public class SolutionTest
     {
-        private static IEnumerable<(List<List<string>>, List<int>)> Scenarios()
+        private static IEnumerable<(List<List<string>> events, List<int> expected)> Scenarios()
         {
             yield return
             (
@@ -34,7 +34,7 @@ namespace UserFriendlyPasswordSystem
         }
 
         [TestCaseSource(nameof(Scenarios))]
-        public void Test((List<List<string>>, List<int>) scenarios)
+        public void Test((List<List<string>> events, List<int> expected) scenarios)
         {
             var (events, expected) = scenarios;
 

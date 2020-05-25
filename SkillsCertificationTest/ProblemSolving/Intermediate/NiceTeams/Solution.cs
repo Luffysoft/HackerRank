@@ -4,17 +4,17 @@ namespace NiceTeams
 {
     public static class Solution
     {
-        public static int MaxPairs(List<int> skillLevel, int minDiff)
+        public static int MaxPairs(List<int> skillLevels, int minDiff)
         {
             var result = 0;
 
-            skillLevel.Sort();
+            skillLevels.Sort();
 
             var i = 0;
             var j = 1;
-            while (i < skillLevel.Count - 1 && j < skillLevel.Count)
+            while (i < skillLevels.Count - 1 && j < skillLevels.Count)
             {
-                if (skillLevel[j] - skillLevel[i] >= minDiff)
+                if (skillLevels[j] - skillLevels[i] >= minDiff)
                 {
                     i++;
                     result++;

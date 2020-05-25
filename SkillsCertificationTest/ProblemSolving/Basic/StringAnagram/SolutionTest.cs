@@ -5,7 +5,7 @@ namespace StringAnagram
 {
     public class SolutionTest
     {
-        private static IEnumerable<(List<string>, List<string>, List<int>)> Scenarios()
+        private static IEnumerable<(List<string> dictionary, List<string> queries, List<int> expected)> Scenarios()
         {
             yield return
             (
@@ -25,11 +25,11 @@ namespace StringAnagram
         }
 
         [TestCaseSource(nameof(Scenarios))]
-        public void Test((List<string>, List<string>, List<int>) scenarios)
+        public void Test((List<string> dictionary, List<string> queries, List<int> expected) scenarios)
         {
-            var (dictionary, query, expected) = scenarios;
+            var (dictionary, queries, expected) = scenarios;
 
-            var actual = Solution.StringAnagram(dictionary, query);
+            var actual = Solution.StringAnagram(dictionary, queries);
 
             Assert.AreEqual(expected, actual);
         }

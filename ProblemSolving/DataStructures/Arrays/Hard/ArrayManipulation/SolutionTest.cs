@@ -8,7 +8,7 @@ namespace ArrayManipulation
 {
     public class SolutionTest
     {
-        private static IEnumerable<(int, int[][], long)> Scenarios()
+        private static IEnumerable<(int n, int[][] queries, long expected)> Scenarios()
         {
             yield return
             (
@@ -67,7 +67,7 @@ namespace ArrayManipulation
         }
 
         [TestCaseSource(nameof(Scenarios))]
-        public void Test((int, int[][], long) scenarios)
+        public void Test((int n, int[][] queries, long expected) scenarios)
         {
             var (n, queries, expected) = scenarios;
 

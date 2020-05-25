@@ -5,7 +5,7 @@ namespace DiagonalDifference
 {
     public class SolutionTest
     {
-        private static IEnumerable<(int[][], int)> Scenarios()
+        private static IEnumerable<(int[][] a, int expected)> Scenarios()
         {
             yield return
             (
@@ -31,7 +31,7 @@ namespace DiagonalDifference
         }
 
         [TestCaseSource(nameof(Scenarios))]
-        public void Test((int[][], int) scenarios)
+        public void Test((int[][] a, int expected) scenarios)
         {
             var (a, expected) = scenarios;
 

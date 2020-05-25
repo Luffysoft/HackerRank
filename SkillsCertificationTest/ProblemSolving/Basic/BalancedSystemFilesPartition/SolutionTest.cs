@@ -5,7 +5,7 @@ namespace BalancedSystemFilesPartition
 {
     public class SolutionTest
     {
-        private static IEnumerable<(List<int>, List<int>, int)> Scenarios()
+        private static IEnumerable<(List<int> parents, List<int> sizes, int expected)> Scenarios()
         {
             yield return
             (
@@ -74,7 +74,7 @@ namespace BalancedSystemFilesPartition
         }
 
         [TestCaseSource(nameof(Scenarios))]
-        public void Test((List<int>, List<int>, int) scenarios)
+        public void Test((List<int> parents, List<int> sizes, int expected) scenarios)
         {
             var (parents, sizes, expected) = scenarios;
 

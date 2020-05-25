@@ -5,7 +5,7 @@ namespace CompareTheTriplets
 {
     public class SolutionTest
     {
-        private static IEnumerable<(List<int>, List<int>, List<int>)> Scenarios()
+        private static IEnumerable<(List<int> a, List<int> b, List<int> expected)> Scenarios()
         {
             yield return
             (
@@ -23,7 +23,7 @@ namespace CompareTheTriplets
         }
 
         [TestCaseSource(nameof(Scenarios))]
-        public void Test1((List<int>, List<int>, List<int>) scenarios)
+        public void Test1((List<int> a, List<int> b, List<int> expected) scenarios)
         {
             var (a, b, expected) = scenarios;
 

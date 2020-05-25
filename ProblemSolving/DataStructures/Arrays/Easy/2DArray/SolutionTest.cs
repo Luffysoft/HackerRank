@@ -5,7 +5,7 @@ namespace _2DArray
 {
     public class SolutionTest
     {
-        private static IEnumerable<(int[][], int)> Scenarios()
+        private static IEnumerable<(int[][] arr, int expected)> Scenarios()
         {
             yield return
             (
@@ -37,7 +37,7 @@ namespace _2DArray
         }
 
         [TestCaseSource(nameof(Scenarios))]
-        public void Test((int[][], int) scenarios)
+        public void Test((int[][] arr, int expected) scenarios)
         {
             var (arr, expected) = scenarios;
 
@@ -47,7 +47,7 @@ namespace _2DArray
         }
 
         [TestCaseSource(nameof(Scenarios))]
-        public void Test2((int[][], int) scenarios)
+        public void Test2((int[][] arr, int expected) scenarios)
         {
             var (arr, expected) = scenarios;
 
