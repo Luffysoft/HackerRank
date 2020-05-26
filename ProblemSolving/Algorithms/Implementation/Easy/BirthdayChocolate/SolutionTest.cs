@@ -49,5 +49,15 @@ namespace BirthdayChocolate
 
             Assert.AreEqual(expected, actual);
         }
+
+        [TestCaseSource(nameof(Scenarios))]
+        public void Test2((List<int> s, int d, int m, int expected) scenarios)
+        {
+            var (s, d, m, expected) = scenarios;
+
+            var actual = Solution.BirthdayV2(s, d, m);
+
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

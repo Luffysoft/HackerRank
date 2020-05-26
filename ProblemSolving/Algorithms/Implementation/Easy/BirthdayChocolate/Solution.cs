@@ -25,5 +25,16 @@ namespace BirthdayChocolate
 
             return result;
         }
+
+        public static int BirthdayV2(List<int> s, int d, int m)
+        {
+            return Enumerable
+                .Range(0, s.Count - m + 1)
+                .Select(i => Enumerable
+                    .Range(0, m)
+                    .Select(j => s[i + j]))
+                .Select(r => r.Sum())
+                .Count(r => r == d);
+        }
     }
 }
