@@ -23,7 +23,7 @@ namespace CompareTheTriplets
         }
 
         [TestCaseSource(nameof(Scenarios))]
-        public void Test1((List<int> a, List<int> b, List<int> expected) scenarios)
+        public void Test((List<int> a, List<int> b, List<int> expected) scenarios)
         {
             var (a, b, expected) = scenarios;
 
