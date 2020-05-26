@@ -151,21 +151,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{CBE5344A-3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertANodeAtASpecificPositionInALinkedList", "ProblemSolving\DataStructures\LinkedLists\Easy\InsertANodeAtASpecificPositionInALinkedList\InsertANodeAtASpecificPositionInALinkedList.csproj", "{1550B564-49FB-4DE7-890C-D509FBEFA8A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day02_Operators", "30DaysOfCode\Day02_Operators\Day02_Operators.csproj", "{2941FE50-8433-4EC3-A8D9-22A770C9B6CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day02_Operators", "30DaysOfCode\Day02_Operators\Day02_Operators.csproj", "{2941FE50-8433-4EC3-A8D9-22A770C9B6CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "ProblemSolving\Algorithms\BitManipulation\Easy\LonelyInteger\LonelyInteger.csproj", "{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LonelyInteger", "ProblemSolving\Algorithms\BitManipulation\Easy\LonelyInteger\LonelyInteger.csproj", "{BB72EBE5-0DD0-4ADF-B9C9-7DE92298C169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximizingXOR", "ProblemSolving\Algorithms\BitManipulation\Easy\MaximizingXOR\MaximizingXOR.csproj", "{7CD1500D-CFAC-4386-AD51-5F93BDDB3302}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximizingXOR", "ProblemSolving\Algorithms\BitManipulation\Easy\MaximizingXOR\MaximizingXOR.csproj", "{7CD1500D-CFAC-4386-AD51-5F93BDDB3302}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumVsXOR", "ProblemSolving\Algorithms\BitManipulation\Easy\SumVsXOR\SumVsXOR.csproj", "{ABD55E3B-9138-4A02-B905-C26B480546C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumVsXOR", "ProblemSolving\Algorithms\BitManipulation\Easy\SumVsXOR\SumVsXOR.csproj", "{ABD55E3B-9138-4A02-B905-C26B480546C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleAndOrange", "ProblemSolving\Algorithms\Implementation\Easy\AppleAndOrange\AppleAndOrange.csproj", "{C66F8276-6FB0-44A5-9620-CC90B5B9A71E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleAndOrange", "ProblemSolving\Algorithms\Implementation\Easy\AppleAndOrange\AppleAndOrange.csproj", "{C66F8276-6FB0-44A5-9620-CC90B5B9A71E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonAppetit", "ProblemSolving\Algorithms\Implementation\Easy\BonAppetit\BonAppetit.csproj", "{519B3E1C-C1A4-4593-9FAB-B2DACE500778}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BonAppetit", "ProblemSolving\Algorithms\Implementation\Easy\BonAppetit\BonAppetit.csproj", "{519B3E1C-C1A4-4593-9FAB-B2DACE500778}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateFeast", "ProblemSolving\Algorithms\Implementation\Easy\ChocolateFeast\ChocolateFeast.csproj", "{9AB0FF12-8DFA-42F2-A93E-6DFC0F344A28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChocolateFeast", "ProblemSolving\Algorithms\Implementation\Easy\ChocolateFeast\ChocolateFeast.csproj", "{9AB0FF12-8DFA-42F2-A93E-6DFC0F344A28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LisaSWorkbook", "ProblemSolving\Algorithms\Implementation\Easy\LisaSWorkbook\LisaSWorkbook.csproj", "{C97B8514-8170-48F7-A67E-C228DFAE1C7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LisaSWorkbook", "ProblemSolving\Algorithms\Implementation\Easy\LisaSWorkbook\LisaSWorkbook.csproj", "{C97B8514-8170-48F7-A67E-C228DFAE1C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day03_IntroToConditionalStatements", "30DaysOfCode\Day03_IntroToConditionalStatements\Day03_IntroToConditionalStatements.csproj", "{3F61A974-2B0D-4B8B-9DA8-C046E14D1B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDigits", "ProblemSolving\Algorithms\Implementation\Easy\FindDigits\FindDigits.csproj", "{5BBBA2A5-4D11-4625-BE95-9FEE82E7C176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayChocolate", "ProblemSolving\Algorithms\Implementation\Easy\BirthdayChocolate\BirthdayChocolate.csproj", "{58D47264-ED09-42AC-A70A-89CD3BD13933}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -349,6 +355,18 @@ Global
 		{C97B8514-8170-48F7-A67E-C228DFAE1C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C97B8514-8170-48F7-A67E-C228DFAE1C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C97B8514-8170-48F7-A67E-C228DFAE1C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F61A974-2B0D-4B8B-9DA8-C046E14D1B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F61A974-2B0D-4B8B-9DA8-C046E14D1B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F61A974-2B0D-4B8B-9DA8-C046E14D1B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F61A974-2B0D-4B8B-9DA8-C046E14D1B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BBBA2A5-4D11-4625-BE95-9FEE82E7C176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBBA2A5-4D11-4625-BE95-9FEE82E7C176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BBBA2A5-4D11-4625-BE95-9FEE82E7C176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBBA2A5-4D11-4625-BE95-9FEE82E7C176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D47264-ED09-42AC-A70A-89CD3BD13933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D47264-ED09-42AC-A70A-89CD3BD13933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D47264-ED09-42AC-A70A-89CD3BD13933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D47264-ED09-42AC-A70A-89CD3BD13933}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -432,6 +450,9 @@ Global
 		{519B3E1C-C1A4-4593-9FAB-B2DACE500778} = {C2D20F10-CAB0-4CCD-B248-A28318C5644F}
 		{9AB0FF12-8DFA-42F2-A93E-6DFC0F344A28} = {C2D20F10-CAB0-4CCD-B248-A28318C5644F}
 		{C97B8514-8170-48F7-A67E-C228DFAE1C7F} = {C2D20F10-CAB0-4CCD-B248-A28318C5644F}
+		{3F61A974-2B0D-4B8B-9DA8-C046E14D1B94} = {C10480BA-2395-4BED-B13A-B9DF6B331AC4}
+		{5BBBA2A5-4D11-4625-BE95-9FEE82E7C176} = {C2D20F10-CAB0-4CCD-B248-A28318C5644F}
+		{58D47264-ED09-42AC-A70A-89CD3BD13933} = {C2D20F10-CAB0-4CCD-B248-A28318C5644F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D440E8C8-D7AB-4FA6-A957-B078546AB4BA}
