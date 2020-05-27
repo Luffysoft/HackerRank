@@ -175,6 +175,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayChocolate", "Proble
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "ProblemSolving\Algorithms\Warmup\Easy\PlusMinus\PlusMinus.csproj", "{5F170D80-8DFA-446A-849E-40D3D8E2A694}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day04_ClassVsInstance", "30DaysOfCode\Day04_ClassVsInstance\Day04_ClassVsInstance.csproj", "{69A6E52A-804D-4FC8-AE92-41E9E85A7F01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -373,6 +375,10 @@ Global
 		{5F170D80-8DFA-446A-849E-40D3D8E2A694}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F170D80-8DFA-446A-849E-40D3D8E2A694}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F170D80-8DFA-446A-849E-40D3D8E2A694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A6E52A-804D-4FC8-AE92-41E9E85A7F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A6E52A-804D-4FC8-AE92-41E9E85A7F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A6E52A-804D-4FC8-AE92-41E9E85A7F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A6E52A-804D-4FC8-AE92-41E9E85A7F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -460,6 +466,7 @@ Global
 		{5BBBA2A5-4D11-4625-BE95-9FEE82E7C176} = {C2D20F10-CAB0-4CCD-B248-A28318C5644F}
 		{58D47264-ED09-42AC-A70A-89CD3BD13933} = {C2D20F10-CAB0-4CCD-B248-A28318C5644F}
 		{5F170D80-8DFA-446A-849E-40D3D8E2A694} = {F3AA3847-4CC2-4E59-A302-5BC8CC8C9857}
+		{69A6E52A-804D-4FC8-AE92-41E9E85A7F01} = {C10480BA-2395-4BED-B13A-B9DF6B331AC4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D440E8C8-D7AB-4FA6-A957-B078546AB4BA}

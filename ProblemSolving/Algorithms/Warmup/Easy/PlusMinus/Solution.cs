@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.Linq;
 
 namespace PlusMinus
@@ -48,12 +46,22 @@ namespace PlusMinus
             return Enumerable
                 .Range(0, 3)
                 .GroupJoin(
-                    arr.Select(e => new { Index = e > 0 ? 0 : (e < 0 ? 1 : 2), Element = e }),
+                    arr.Select(e => new { Index = e > 0 ? 0 : ToIndex(e), Element = e }),
                     i => i,
                     e => e.Index,
                     (i, e) => (Index: i, Count: e.Count()))
                 .Select(gj => (double) gj.Count / arr.Length)
                 .ToArray();
+        }
+
+        private static int ToIndex(int e)
+        {
+            if (e > 0)
+            {
+                return 0;
+            }
+
+            return e < 0 ? 1 : 2;
         }
     }
 }
