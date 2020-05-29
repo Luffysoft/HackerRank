@@ -193,6 +193,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavisStaircase", "Interview
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day06_LetSReview", "30DaysOfCode\Day06_LetSReview\Day06_LetSReview.csproj", "{87123603-1191-444E-A09B-F0026D7349F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "ProblemSolving\Algorithms\Warmup\Easy\Staircase\Staircase.csproj", "{798B69F1-4F72-4881-A5FA-99060FFC13C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -415,6 +417,10 @@ Global
 		{87123603-1191-444E-A09B-F0026D7349F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87123603-1191-444E-A09B-F0026D7349F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87123603-1191-444E-A09B-F0026D7349F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798B69F1-4F72-4881-A5FA-99060FFC13C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798B69F1-4F72-4881-A5FA-99060FFC13C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798B69F1-4F72-4881-A5FA-99060FFC13C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798B69F1-4F72-4881-A5FA-99060FFC13C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -510,6 +516,7 @@ Global
 		{9EE1BEEF-07E6-43C3-9146-03A74AB71A6C} = {E18292A2-4EA1-44AA-A3C8-1AFFEA26307C}
 		{BE3C1D5A-4CD1-4754-9FAE-9AA5278211B8} = {9EE1BEEF-07E6-43C3-9146-03A74AB71A6C}
 		{87123603-1191-444E-A09B-F0026D7349F3} = {C10480BA-2395-4BED-B13A-B9DF6B331AC4}
+		{798B69F1-4F72-4881-A5FA-99060FFC13C2} = {F3AA3847-4CC2-4E59-A302-5BC8CC8C9857}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D440E8C8-D7AB-4FA6-A957-B078546AB4BA}
