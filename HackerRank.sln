@@ -167,25 +167,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChocolateFeast", "ProblemSo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LisaSWorkbook", "ProblemSolving\Algorithms\Implementation\Easy\LisaSWorkbook\LisaSWorkbook.csproj", "{C97B8514-8170-48F7-A67E-C228DFAE1C7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day03_IntroToConditionalStatements", "30DaysOfCode\Day03_IntroToConditionalStatements\Day03_IntroToConditionalStatements.csproj", "{3F61A974-2B0D-4B8B-9DA8-C046E14D1B94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day03_IntroToConditionalStatements", "30DaysOfCode\Day03_IntroToConditionalStatements\Day03_IntroToConditionalStatements.csproj", "{3F61A974-2B0D-4B8B-9DA8-C046E14D1B94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDigits", "ProblemSolving\Algorithms\Implementation\Easy\FindDigits\FindDigits.csproj", "{5BBBA2A5-4D11-4625-BE95-9FEE82E7C176}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindDigits", "ProblemSolving\Algorithms\Implementation\Easy\FindDigits\FindDigits.csproj", "{5BBBA2A5-4D11-4625-BE95-9FEE82E7C176}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayChocolate", "ProblemSolving\Algorithms\Implementation\Easy\BirthdayChocolate\BirthdayChocolate.csproj", "{58D47264-ED09-42AC-A70A-89CD3BD13933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayChocolate", "ProblemSolving\Algorithms\Implementation\Easy\BirthdayChocolate\BirthdayChocolate.csproj", "{58D47264-ED09-42AC-A70A-89CD3BD13933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "ProblemSolving\Algorithms\Warmup\Easy\PlusMinus\PlusMinus.csproj", "{5F170D80-8DFA-446A-849E-40D3D8E2A694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "ProblemSolving\Algorithms\Warmup\Easy\PlusMinus\PlusMinus.csproj", "{5F170D80-8DFA-446A-849E-40D3D8E2A694}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day04_ClassVsInstance", "30DaysOfCode\Day04_ClassVsInstance\Day04_ClassVsInstance.csproj", "{69A6E52A-804D-4FC8-AE92-41E9E85A7F01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day04_ClassVsInstance", "30DaysOfCode\Day04_ClassVsInstance\Day04_ClassVsInstance.csproj", "{69A6E52A-804D-4FC8-AE92-41E9E85A7F01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day05_Loops", "30DaysOfCode\Day05_Loops\Day05_Loops.csproj", "{98344B9B-1538-46AA-BCBF-E23A606B7F60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day05_Loops", "30DaysOfCode\Day05_Loops\Day05_Loops.csproj", "{98344B9B-1538-46AA-BCBF-E23A606B7F60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{24A23DA0-3B0E-4654-A525-FAF8CC0F843C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{24A23DA0-3B0E-4654-A525-FAF8CC0F843C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion And Backtracking", "Recursion And Backtracking", "{E18292A2-4EA1-44AA-A3C8-1AFFEA26307C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{8EE6542B-8687-4DDB-B4C0-B5DAFA9723C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "InterviewPreparationKit\RecursionAndBacktracking\Easy\FibonacciNumbers\FibonacciNumbers.csproj", "{C018D653-4953-493F-935E-8535352C987D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciNumbers", "InterviewPreparationKit\RecursionAndBacktracking\Easy\FibonacciNumbers\FibonacciNumbers.csproj", "{C018D653-4953-493F-935E-8535352C987D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{9EE1BEEF-07E6-43C3-9146-03A74AB71A6C}"
 EndProject
@@ -193,7 +193,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavisStaircase", "Interview
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day06_LetSReview", "30DaysOfCode\Day06_LetSReview\Day06_LetSReview.csproj", "{87123603-1191-444E-A09B-F0026D7349F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "ProblemSolving\Algorithms\Warmup\Easy\Staircase\Staircase.csproj", "{798B69F1-4F72-4881-A5FA-99060FFC13C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "ProblemSolving\Algorithms\Warmup\Easy\Staircase\Staircase.csproj", "{798B69F1-4F72-4881-A5FA-99060FFC13C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day07_Arrays", "30DaysOfCode\Day07_Arrays\Day07_Arrays.csproj", "{9449E75A-1A7F-454A-BE6E-B44ED24CD1F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day08_DictionariesAndMaps", "30DaysOfCode\Day08_DictionariesAndMaps\Day08_DictionariesAndMaps.csproj", "{F71D3820-9B52-486C-936E-AE46CDB4EC7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -421,6 +425,14 @@ Global
 		{798B69F1-4F72-4881-A5FA-99060FFC13C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{798B69F1-4F72-4881-A5FA-99060FFC13C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{798B69F1-4F72-4881-A5FA-99060FFC13C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9449E75A-1A7F-454A-BE6E-B44ED24CD1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9449E75A-1A7F-454A-BE6E-B44ED24CD1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9449E75A-1A7F-454A-BE6E-B44ED24CD1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9449E75A-1A7F-454A-BE6E-B44ED24CD1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71D3820-9B52-486C-936E-AE46CDB4EC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71D3820-9B52-486C-936E-AE46CDB4EC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71D3820-9B52-486C-936E-AE46CDB4EC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71D3820-9B52-486C-936E-AE46CDB4EC7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -517,6 +529,8 @@ Global
 		{BE3C1D5A-4CD1-4754-9FAE-9AA5278211B8} = {9EE1BEEF-07E6-43C3-9146-03A74AB71A6C}
 		{87123603-1191-444E-A09B-F0026D7349F3} = {C10480BA-2395-4BED-B13A-B9DF6B331AC4}
 		{798B69F1-4F72-4881-A5FA-99060FFC13C2} = {F3AA3847-4CC2-4E59-A302-5BC8CC8C9857}
+		{9449E75A-1A7F-454A-BE6E-B44ED24CD1F5} = {C10480BA-2395-4BED-B13A-B9DF6B331AC4}
+		{F71D3820-9B52-486C-936E-AE46CDB4EC7F} = {C10480BA-2395-4BED-B13A-B9DF6B331AC4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D440E8C8-D7AB-4FA6-A957-B078546AB4BA}
